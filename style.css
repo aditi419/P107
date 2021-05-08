@@ -1,0 +1,39 @@
+body {
+  color: white;
+  background: purple;
+}
+
+span {
+  font-size: 30px;
+}
+
+.heading {
+  font-size: 18px;
+  border-radius: 10;
+  letter-spacing: 20;
+}
+
+#webcam_view,
+#snapshot {
+  width: 350px;
+  height: 300px;
+  border: 2px solid white;
+}
+
+#result_gesture_name,
+.gesture_name {
+  font-size: 40px;
+  color: black;
+}
+
+.gesture {
+  font-size: 45px;
+}
+
+label {
+  font-size: 14px;
+  color: black;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
